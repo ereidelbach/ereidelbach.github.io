@@ -1,28 +1,3 @@
-title: Eric Reidelbach
-description: My Personal Blog
-email: eric.reidelbach(at)visionistinc.com
-author: Eric Reidelbach
-logo: /hcz-jekyll-blog/static/img/avatar.png
-github: https://github.com/ereidelbach
-
-baseurl: "https://codeasashu.github.io/hcz-jekyll-blog"
-url: "https://codeasashu.github.io/hcz-jekyll-blog"
-
-allowsearch: true
-
-disqus_shortname: aboutashu
-google_analytics: UA-72862926-1
-
-share:
-  twitter_username: stewmanji
-  fb_appid: 000000000000
-
-
-enableTags: true
-tagarray: []
-
-paginate: 20
-per_page: 20
-paginate_path: "/page:num/"
-markdown: kramdown
-gems: [jekyll-paginate, jekyll-gist]
+name: Gearoid O'Connor
+markdown: redcarpet
+exclude: ["node_modules", "gulpfile.js", "package.json"]

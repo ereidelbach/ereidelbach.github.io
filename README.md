@@ -1,22 +1,32 @@
-## HCZ Material theme
+=============================
+Sleek Blog
+=============================
 
-This is a simple personal material theme, best suited for personal authors, programmars, bloggers. 
+[Live Website](http://gearoidoconnor.ie)
 
-### Demo
-* [https://codeasashu.github.io/hcz-jekyll-blog](https://codeasashu.github.io/hcz-jekyll-blog/)
 
-#### Feature
+A blog project including full setup for Jekyll, GulpJS, SASS, AutoPrefixer &amp; BrowserSync
 
-* Sitemap and XML Feed
-* Site Search 
-* Projects and tags
-* Paginations in homepage
-* Posts under category
-* Related Posts
-* Highlight pre
-* Next & Previous Post
-* Disqus comment
 
-#### Screenshot
+## System Preparation
 
-![Screenshot Home Page](https://raw.githubusercontent.com/ashutosh2k12/jekyllthemes/master/thumbnails/hcz-material.png  "Screenshot Home Page")
+To use this project, you'll need the following things installed on your machine.
+
+1. [Jekyll](http://jekyllrb.com/) - `$ gem install jekyll`
+2. [NodeJS](http://nodejs.org) - use the installer.
+3. [GulpJS](https://github.com/gulpjs/gulp) - `$ npm install -g gulp` (mac users may need sudo)
+
+## Local Installation
+
+1. Clone this repo, or download it into a directory of your choice.
+2. Inside the directory, run `npm install`.
+
+## Usage
+
+**development mode**
+
+This will give you file watching, browser synchronisation, auto-rebuild, CSS injecting etc etc.
+
+```shell
+$ gulp
+```
