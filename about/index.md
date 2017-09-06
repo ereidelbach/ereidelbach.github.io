@@ -1,22 +1,17 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, JBlog]
-date: 2016-03-21
+title: About Eric
+tags: [about]
+date: 2017-09-06
 ---
 
-![jekyll Image](http://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2015/02/1424055625jekyll.png)
+![jekyll Image]('assets/img/Stewie1.gif')
 {: .image-pull-right}
 
-<center><b>JBlog</b> is a simple jekyll theme.</center>
+<center><b>Eric is currently a Data Scientist at ![Visionist, Inc.](http://visionistinc.com/) in Columbia, MD.</center>
 
 ## About
 
-I have used this theme in my own php and ruby blogs. And there are some shortcomings. If something looks extremely ugly and you can't resist to fix it, just send me a PR. I will be grateful.
+Prior to joining Visionist, Eric served as an active duty Naval Officer for more than 10 years with roles in Aviation, Administration, Education and Training. As a Naval Aviatior, he earned the callsign **Stewie** which he has fully embraced.
 
-
-If you like this theme or using it, please give a **star** for motivation.
-
-You want to **use it?**      
-
-[Install JBlog](https://github.com/alperenbozkurt/JBlog){: .btn .btn-info}
+Eric holds an M.S. in Analytics from the Institute for Advanced Analytics at North Carolina State University. He also holds an MBA from the University of Mississippi and a B.S. in Computer Science from the United States Naval Academy.
