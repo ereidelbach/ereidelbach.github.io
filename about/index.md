@@ -5,7 +5,7 @@ tags: [about]
 date: 2017-09-06
 ---
 
-![jekyll Image](assets/img/Stewie1.gif)
+![GitHub Stewie Pic](assets/img/Stewie1.gif?raw=true)
 {: .image-pull-right}
 
 <center><b>Eric is currently a Data Scientist at ![Visionist, Inc.](http://visionistinc.com/) in Columbia, MD.</center>
