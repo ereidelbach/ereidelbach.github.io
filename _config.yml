@@ -1,7 +1,7 @@
 # Site
 title:          Eric Reidelbach
 bio:            Naval Aviator - MBA - Data Scientist
-description:    "JBlog is a minimal, one column and blue jekyll theme for your blog."
+description:    Naval Aviator - MBA - Data Scientist
 picture:        'assets/img/profile.jpg'
 locale:         en_US
 url:            https://ereidelbach.github.io
@@ -44,7 +44,7 @@ linkedin: ericreidelbach
 #foursquare: username
 steam: Stewmanji
 #dribbble: username
-youtube: ereidelbach
+#youtube: ereidelbach
 #soundcloud: username
 #weibo: username
 #flickr: username
