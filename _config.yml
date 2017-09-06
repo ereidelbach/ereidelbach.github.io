@@ -1,6 +1,6 @@
 # Site
-title:          JBlog
-bio:            'Just a simple Jekyll theme'
+title:          Eric Reidelbach
+bio:            Naval Aviator - MBA - Data Scientist
 description:    "JBlog is a minimal, one column and blue jekyll theme for your blog."
 picture:        'assets/img/profile.png'
 locale:         en_US
@@ -35,7 +35,7 @@ twitter: stewmanji
 #bing-verify:
 github: ereidelbach
 #stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-linkedin: eric.reidelbach
+linkedin: ericreidelbach
 #xing: username
 #instagram: username
 #lastfm: username
