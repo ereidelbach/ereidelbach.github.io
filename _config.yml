@@ -4,7 +4,7 @@ bio:            'Just a simple Jekyll theme'
 description:    "JBlog is a minimal, one column and blue jekyll theme for your blog."
 picture:        'assets/img/profile.png'
 locale:         en_US
-url:            https://ereidelbach.github.io/
+url:            https://ereidelbach.github.io
 
 
 # Jekyll
@@ -24,8 +24,8 @@ sass:
 # Social
 # if you don't have any of social below, comment the line.
 #email:
-twitter: stewmanji
-#facebook: username
+twitter: username
+facebook: username
 #google:
   #plus: #username
   #analytics:
@@ -33,18 +33,18 @@ twitter: stewmanji
   #ad-client:
   #ad-slot:
 #bing-verify:
-github: ejreidelbach
-#stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-linkedin: eric.reidelbach
+github: username
+stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+linkedin: username
 #xing: username
-#instagram: username
-#lastfm: username
-#tumblr: username
+instagram: username
+lastfm: username
+tumblr: username
 #pinterest: username
 #foursquare: username
-steam: stewmanji
+steam: username
 #dribbble: username
-youtube: ereidelbach
+youtube: username
 #soundcloud: username
 #weibo: username
 #flickr: username
