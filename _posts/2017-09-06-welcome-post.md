@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Welcome to my blog"
-date: 2016-09-06
-excerpt: "Mips ve assembly kodları giriş."
+title: "The Journey Begins"
+date: 2017-09-06
+excerpt: "Let's make the last half of 2017 one to remember!"
 tags: [welcome]
 ---
 **The Journey Begins**
