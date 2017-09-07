@@ -8,7 +8,7 @@ date: 2017-09-06
 ![GitHub Stewie Pic](https://ereidelbach.github.io/assets/img/Stewie1.gif)
 {: .image-pull-right}
 
-<h3 style="text-align: center;" markdown="1">Eric is currently a Data Scientist at ![Visionist, Inc.](http://visionistinc.com/) in Columbia, MD.</h3>
+<h4 style="text-align: center;" markdown="1">Eric is currently a Data Scientist at [Visionist, Inc.](http://visionistinc.com/) in Columbia, MD.</h4>
 
 ## About
 
