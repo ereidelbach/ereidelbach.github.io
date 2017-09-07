@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Journey Begins"
+title: "Welcome Aboard"
 date: 2017-09-06
 excerpt: "Let's make the last half of 2017 one to remember!"
 tags: [welcome]
